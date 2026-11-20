@@ -20,8 +20,8 @@ flutter run
 
 | Connexion | Accueil (CV) |
 |---|---|
-| ![Connexion](docs/screenshots/01_connexion.png) | ![Accueil](docs/screenshots/02_accueil.png) |
+| ![Connexion](docs/screenshots/1.png) | ![Accueil](docs/screenshots/2.png) |
 
 | Famille | Contact |
 |---|---|
-| ![Famille](docs/screenshots/03_famille.png) | ![Contact](docs/screenshots/04_contact.png) |
+| ![Famille](docs/screenshots/3.png) | ![Contact](docs/screenshots/4.png) |
