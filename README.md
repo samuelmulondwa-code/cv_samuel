@@ -25,3 +25,21 @@ flutter run
 | Famille | Contact |
 |---|---|
 | ![Famille](docs/screenshots/3.png) | ![Contact](docs/screenshots/4.png) |
+
+
+| Formulaire d'ajout  | Liste Membres Famille |
+|---|---|
+| ![Famille](docs/screenshots/6.png) | ![Contact](docs/screenshots/5.png) |
+
+
+| Base de données
+|---|---|
+| ![Famille](docs/screenshots/7.png)
+
+## Démonstration Vidéo
+
+*Voici la vidéo montrant la communication entre l'application Flutter, l'API et la base de données MySQL.*
+
+<video src="docs/screenshots/video_demo.mp4" controls="controls" style="max-width: 100%;">
+Votre navigateur ne supporte pas la balise vidéo.
+</video>
